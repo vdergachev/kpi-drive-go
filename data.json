@@ -1,0 +1,255 @@
+{
+  "MESSAGES": {
+    "error": null,
+    "warning": null,
+    "info": null
+  },
+  "DATA": {
+    "page": 1,
+    "pages_count": 1,
+    "rows_count": 10,
+    "rows": [
+      {
+        "_id": "events/500552300",
+        "_key": "500552300",
+        "_rev": "_gwNacFi---",
+        "author": {
+          "mo_id": 478,
+          "user_id": 416,
+          "user_name": "Гаар С."
+        },
+        "group": "INDICATORS",
+        "msg": "Просмотр матрицы",
+        "params": {
+          "indicator_to_mo_id": 42,
+          "period": {
+            "end": "2023-09-30",
+            "start": "2023-09-01",
+            "type_id": 4,
+            "type_key": "month"
+          },
+          "platform": "web"
+        },
+        "time": "2023-10-12T12:28:53.237799029Z",
+        "type": "MATRIX_REQUEST"
+      },
+      {
+        "_id": "events/500552230",
+        "_key": "500552230",
+        "_rev": "_gwNZ7oq---",
+        "author": {
+          "mo_id": 478,
+          "user_id": 416,
+          "user_name": "Гаар С."
+        },
+        "group": "INDICATORS",
+        "msg": "Просмотр матрицы",
+        "params": {
+          "indicator_to_mo_id": 478,
+          "period": {
+            "end": "2023-09-30",
+            "start": "2023-09-01",
+            "type_id": 4,
+            "type_key": "month"
+          },
+          "platform": "web"
+        },
+        "time": "2023-10-12T12:28:20.01164699Z",
+        "type": "MATRIX_REQUEST"
+      },
+      {
+        "_id": "events/500552188",
+        "_key": "500552188",
+        "_rev": "_gwNZ5wK---",
+        "author": {
+          "mo_id": 478,
+          "user_id": 416,
+          "user_name": "Гаар С."
+        },
+        "group": "INDICATORS",
+        "msg": "Просмотр матрицы",
+        "params": {
+          "indicator_to_mo_id": 478,
+          "period": {
+            "end": "2023-09-30",
+            "start": "2023-09-01",
+            "type_id": 4,
+            "type_key": "month"
+          },
+          "platform": "web"
+        },
+        "time": "2023-10-12T12:28:18.083830678Z",
+        "type": "MATRIX_REQUEST"
+      },
+      {
+        "_id": "events/500552181",
+        "_key": "500552181",
+        "_rev": "_gwNZ4GK---",
+        "author": {
+          "mo_id": 478,
+          "user_id": 416,
+          "user_name": "Гаар С."
+        },
+        "group": "INDICATORS",
+        "msg": "Просмотр матрицы",
+        "params": {
+          "indicator_to_mo_id": 478,
+          "period": {
+            "end": "2023-09-30",
+            "start": "2023-09-01",
+            "type_id": 4,
+            "type_key": "month"
+          },
+          "platform": "web"
+        },
+        "time": "2023-10-12T12:28:16.385254026Z",
+        "type": "MATRIX_REQUEST"
+      },
+      {
+        "_id": "events/500546550",
+        "_key": "500546550",
+        "_rev": "_gwM6NEi---",
+        "author": {
+          "mo_id": 2,
+          "user_id": 2,
+          "user_name": "Литягин А. А."
+        },
+        "group": "INDICATORS",
+        "msg": "Просмотр матрицы",
+        "params": {
+          "indicator_to_mo_id": 42,
+          "period": {
+            "end": "2023-10-31",
+            "start": "2023-10-01",
+            "type_id": 4,
+            "type_key": "month"
+          },
+          "platform": "web"
+        },
+        "time": "2023-10-12T11:53:40.72821339Z",
+        "type": "MATRIX_REQUEST"
+      },
+      {
+        "_id": "events/500546510",
+        "_key": "500546510",
+        "_rev": "_gwM6KL----",
+        "author": {
+          "mo_id": 2,
+          "user_id": 2,
+          "user_name": "Литягин А. А."
+        },
+        "group": "INDICATORS",
+        "msg": "Просмотр матрицы",
+        "params": {
+          "indicator_to_mo_id": 42,
+          "period": {
+            "end": "2023-10-31",
+            "start": "2023-10-01",
+            "type_id": 4,
+            "type_key": "month"
+          },
+          "platform": "web"
+        },
+        "time": "2023-10-12T11:53:37.754932691Z",
+        "type": "MATRIX_REQUEST"
+      },
+      {
+        "_id": "events/500545727",
+        "_key": "500545727",
+        "_rev": "_gwM3Q7i---",
+        "author": {
+          "mo_id": 2,
+          "user_id": 2,
+          "user_name": "Литягин А. А."
+        },
+        "group": "INDICATORS",
+        "msg": "Просмотр матрицы",
+        "params": {
+          "indicator_to_mo_id": 42,
+          "period": {
+            "end": "2023-10-31",
+            "start": "2023-10-01",
+            "type_id": 4,
+            "type_key": "month"
+          },
+          "platform": "web"
+        },
+        "time": "2023-10-12T11:50:28.076070632Z",
+        "type": "MATRIX_REQUEST"
+      },
+      {
+        "_id": "events/500544452",
+        "_key": "500544452",
+        "_rev": "_gwMwnpG---",
+        "author": {
+          "mo_id": 42,
+          "user_id": 40,
+          "user_name": "Мельничук М. С."
+        },
+        "group": "INDICATORS",
+        "msg": "Просмотр матрицы",
+        "params": {
+          "indicator_to_mo_id": 2,
+          "period": {
+            "end": "2023-10-31",
+            "start": "2023-10-01",
+            "type_id": 4,
+            "type_key": "month"
+          },
+          "platform": "web"
+        },
+        "time": "2023-10-12T11:43:12.58386318Z",
+        "type": "MATRIX_REQUEST"
+      },
+      {
+        "_id": "events/500544415",
+        "_key": "500544415",
+        "_rev": "_gwMwg-y---",
+        "author": {
+          "mo_id": 42,
+          "user_id": 40,
+          "user_name": "Мельничук М. С."
+        },
+        "group": "INDICATORS",
+        "msg": "Просмотр матрицы",
+        "params": {
+          "indicator_to_mo_id": 42,
+          "period": {
+            "end": "2023-10-31",
+            "start": "2023-10-01",
+            "type_id": 4,
+            "type_key": "month"
+          },
+          "platform": "web"
+        },
+        "time": "2023-10-12T11:43:04.736755942Z",
+        "type": "MATRIX_REQUEST"
+      },
+      {
+        "_id": "events/500541006",
+        "_key": "500541006",
+        "_rev": "_gwMgPMW---",
+        "author": {
+          "mo_id": 2,
+          "user_id": 2,
+          "user_name": "Литягин А. А."
+        },
+        "group": "INDICATORS",
+        "msg": "Просмотр матрицы",
+        "params": {
+          "indicator_to_mo_id": 42,
+          "period": {
+            "end": "2023-10-31",
+            "start": "2023-10-01",
+            "type_id": 4,
+            "type_key": "month"
+          },
+          "platform": "web"
+        },
+        "time": "2023-10-12T11:25:18.973519049Z",
+        "type": "MATRIX_REQUEST"
+      }
+    ]
+  },
+  "STATUS": "OK"
+}
